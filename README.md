@@ -38,7 +38,7 @@ This is an OS compared only to free, open-source software.
 # KERNAL & SHELL
 - The computer programs that allocate the systems resources and coordinate all the details of the computer's internals is called the operating system or 'KERNAL'. Users communicate with the OS through a program called the 'SHELL'.
 - The Shell is a command line interpreter. It translates commands entered by the user & converts them into a language that is understood by the KERNAL.
-The basic concept of a shell script is a list of commands, which are listed in the order of execution. A good shell script will have comments(#).
+- The basic concept of a shell script is a list of commands, which are listed in the order of execution. A good shell script will have comments(#).
 
 
 # LINUX LIMITATIONS
